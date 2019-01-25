@@ -1,0 +1,30 @@
+h1 {
+
+	color: #96b;
+	text-align: center;
+	padding: 00px 0px 0px 0px;
+	
+}
+
+p {
+	
+	color: white;
+	text-align: center;
+}
+
+
+body{
+
+	background-color: blue;
+	margin: 0;
+	font-family: "Zapfino";
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	background-size: cover;
+
+	
+}
+
+
+
